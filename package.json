@@ -10,9 +10,6 @@
         "dist",
         "src"
     ],
-    "scripts": {
-        "prepublishOnly": "git clean -fdx && make"
-    },
     "repository": "https://github.com/hikingtrails-hu/core.git",
     "private": false,
     "author": "Lencse <leventeloki@gmail.com>",
